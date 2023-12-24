@@ -32,7 +32,7 @@ public class Car extends Vehicle {
     }
 
     public int getGears(){
-        return currentGear;
+        return gears;
     }
     public int  getDoors(){
         return currentGear;
